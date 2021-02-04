@@ -1,2 +1,3 @@
-# week-3-part-2
-https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/25c0fc02-d48c-4719-bb8e-3326817ece16/view?access_token=1c3b34c471f26cf432bd5521a78cab1cd6dfc32a237159a7417799205ab536d6
+# week-3.2
+ Segmenting and Clustering Neighborhoods in Toronto
+ https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/44d64c13-4b82-4e5a-ac6e-a03058a9c1a3/view?access_token=149bdde2067f8f0b7cbed6d5dca1abd2bfdadb61277059d536adea74b9a3e397
